@@ -47,3 +47,6 @@ b. Then under Scroll Views’ viewport object’s content object create text but
 This scene shall let the user view up to 24 quotes but in 24 hours. If its 3:00 in the clock they will be able to see 3 quotes. And if its 14:00 in the clock then they see 14 quotes upto 24.
 The quotes should be loaded under the content object’s Quotes script Element.
 If you need additional help, shoot an email to m.immam@ufl.edu. If you need any changes let me know. Although I can’t promise of how fast I can have it done, however, I will try to help you as needed.
+
+The Document with image can be found in Documentation Folder. 
+Contact Email: m.immam@ufl.edu
