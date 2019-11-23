@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ashim\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ashim\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Birthday_Project1.-1556253181.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ashim\git\Happy_BirthDay_Amor\Birthday_Project1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="alex-brush" t="Include">
+            <e p="SIL Open Font License.txt" t="Include" />
+          </e>
+          <e p="Mansalva" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Zhi_Mang_Xing" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CardScript.cs" t="Include" />
+          <e p="ImageIterator.cs" t="Include" />
+          <e p="MessageFinder.cs" t="Include" />
+          <e p="Messages.cs" t="Include" />
+          <e p="musicIterator.cs" t="Include" />
+          <e p="passWord.cs" t="Include" />
+          <e p="Quotes.cs" t="Include" />
+          <e p="SceneController.cs" t="Include" />
+          <e p="SlideShowImage.cs" t="Include" />
+          <e p="SpecialText.cs" t="Include" />
+          <e p="videoIterator.cs" t="Include" />
+          <e p="videoPlayer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Birthday_Project1.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
