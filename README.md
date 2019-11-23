@@ -9,17 +9,21 @@ fix any aspects needed and make usage.
 Version of Unity
 This project was created using Unity 2019.1.6f1. However, if you download this, your respective Unity
 should convert it to the version it needs.
+
 GUI
 The GUI are downloaded and available from: https://free-game-assets.itch.io/kids-gui-free.
 A zipped Version of the complete GUI jpeg is found outside of the project folder (root).
 Licenses belong to craftpix.net. Found in https://craftpix.net/file-licenses/
+
 Template
 Clone this project to have a ready to go project, waiting for you to load pictures and messages as
 necessary. If, for some reason configurations go out of order, few details can be found below. For more
 information or extended help setting up, you can email m.immam@ufl.edu. You can also send ideas to
 incorporate into the project.
+
 Images
 All other images used are free to download from internet and does not require crediting.
+
 Details
 1. Main Scene:
 a. Background: the background Object in the hierarchy asks for a sprite in its Image
